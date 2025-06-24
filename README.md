@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="130">
       <a href="https.rust-lang.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-line.svg)" width="40" height="40" alt="Rust" />
         <br>Rust
       </a>
     </td>
