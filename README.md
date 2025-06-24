@@ -45,19 +45,16 @@
     <td align="center" width="130">
       <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-        <br>C++
       </a>
     </td>
     <td align="center" width="130">
       <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-        <br>Java
       </a>
     </td>
     <td align="center" width="130">
       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <br>Python
       </a>
     </td>
   </tr>
@@ -65,19 +62,16 @@
     <td align="center" width="130">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-        <br>JavaScript
       </a>
     </td>
     <td align="center" width="130">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-        <br>TypeScript
       </a>
     </td>
     <td align="center" width="130">
       <a href="https.rust-lang.org/" target="_blank" rel="noopener noreferrer">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-line.svg)" width="40" height="40" alt="Rust" />
-        <br>Rust
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" />
       </a>
     </td>
   </tr>
