@@ -89,7 +89,7 @@
 
 ### 🌱 What I'm Up To
 
-- 🔭 I'm currently working on exciting full-stack projects that push the boundaries of what's possible.
-- 👯 I'm always open to collaborating on innovative and impactful software development projects.
-- 🤔 I'm looking for help with exploring advanced topics in distributed systems and performance optimization.
-- 💬 Feel free to ask me about anything related to web development, system architecture, cyber security or learning new technologies!
+- 🔭 I'm currently working on full-stack projects and exploring **Data Engineering pipelines**.
+- 👯 I'm always open to collaborating on innovative software and data-driven projects.
+- 🤔 I'm looking for help with **Scalable Data Architecture** and **Advanced SQL optimization**.
+- 💬 Feel free to ask me about Web Development, System Architecture, or my journey into Data Science!
