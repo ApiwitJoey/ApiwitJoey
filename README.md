@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Apiwit Saengaungkhnawin (Joey)</h1>
 
 <p align="center">
-  A passionate Full-Stack Developer currently studying at the <strong>Chulalongkorn University (CEDT program)</strong>.
+  A passionate <strong>Full-Stack Developer & Data Enthusiast</strong> currently studying at the <strong>Chulalongkorn University (CEDT program)</strong>.
   <br />
-  I thrive on continuous learning and embrace new challenges, always eager to expand my knowledge and skills.
+  I thrive on bridging the gap between robust software engineering and data-driven solutions. Always eager to expand my knowledge in distributed systems and data pipelines.
 </p>
-
 ---
 
 ### 💻 My Tech Stack
